@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo: white
+}
+body {
+    back-ground-color: var(--cor-de-fundo)
+}
+
+
+
+
+
